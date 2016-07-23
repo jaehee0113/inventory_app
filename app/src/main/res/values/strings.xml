@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jae\'s Inventory</string>
+    <string name="no_result">There is no item yet.</string>
+    <string-array name="quantity_control_array">
+        <item>increase</item>
+        <item>decrease</item>
+    </string-array>
+    <string name="qty"> Qty. </string>
+    <string name="item_price"> Item Price </string>
+</resources>
